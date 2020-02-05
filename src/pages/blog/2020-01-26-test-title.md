@@ -6,7 +6,8 @@ description: Test Description
 featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
-  - test tridion other-tag
+  - test tridion
+  - other-tag
 ---
 Test Body
 
