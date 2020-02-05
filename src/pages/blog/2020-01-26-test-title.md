@@ -8,6 +8,7 @@ featuredimage: /img/chemex.jpg
 tags:
   - test tridion
   - other-tag
+  - SDL Web (SDL Tridion)
 ---
 Test Body
 
