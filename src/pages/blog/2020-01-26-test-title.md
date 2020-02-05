@@ -13,3 +13,5 @@ tags:
 Test Body
 
 with some **bold** words
+
+![test](/img/Annotation 2020-01-28 143602.png "test")
